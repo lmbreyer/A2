@@ -16,6 +16,7 @@
 ## Conflict Reflection
 
 1. Why did the intentional conflict happen?
+   Both students attempted to edit the same line in the same file and git didn’t know which change to implement for the header. Even though Student A’s change occurred first, Student B did not pull/sync before making their own heading change.
 
 2. How did you resolve it?
 
